@@ -155,7 +155,10 @@ img {
      max-width: 100%;
      height: auto;
 }
-
+.logo{
+     margin-left: -15mm;
+     margin-top: -7mm;
+}
  :focus {
      outline: 0;
 }
@@ -280,12 +283,27 @@ button {
      text-transform: uppercase;
 }
 
+.collapse{
+     margin-right: 110mm;
+     margin-top: 5mm;
+     
+}
+
+.navbar-nav{
+     position: fixed;
+     width: 100%;
+     z-index: 1;
+     background-color: #ffc400c7;
+     padding: 2mm;
+     border-radius: 30px;
+}
+
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
 .navigation.navbar-dark .navbar-nav .nav-link:hover {
      color: rgb(255, 255, 255);
      background-color: #000;
      border-radius: 30px;
-     padding: 10px 17px;
+     padding: 10px 27px;
 }
 
 .navigation.navbar-dark .navbar-nav .active>.nav-link,
@@ -306,6 +324,7 @@ button {
      border-radius: 30px;
      color: #fff;
      font-size: 17px;
+     margin-right: -75px;
 }
 
 .sign_btn a:hover {
@@ -351,7 +370,7 @@ button {
 }
 
 .text-bg h1 {
-     color: #2d2c2c;
+     color: #003566;
      font-size: 67px;
      line-height: 90px;
      padding-bottom: 70px;
@@ -366,7 +385,7 @@ button {
 
 .text-bg span {
      font-family: 'Baloo Chettan', cursive;
-     color: #2bcc91;
+     color: #003566;
      font-size: 40px;
      line-height: 77px;
      font-weight: bold;
@@ -376,7 +395,7 @@ button {
 
 .text-bg a {
      font-size: 17px;
-     background-color: #2d2c2c;
+     background-color: #003566;
      color: #fff;
      padding: 13px 0px;
      width: 100%;
@@ -396,7 +415,7 @@ button {
 
 .text-img {
      height: 750px;
-     background: linear-gradient(to bottom, #0aec98 0%, #2bcc91 100%);
+     background: linear-gradient(to bottom, #FFC300 0%, #FFC300 100%);
      border-radius: 300px 0px 0px 350px;
      padding: 132px 20px 0px 50px;
 }
@@ -415,7 +434,7 @@ button {
     position: absolute;
     align-items: center;
     left: -14px;
-    background: #000;
+    background: #003566;
     width: 60px;
     height: -1px;
 
@@ -423,7 +442,7 @@ button {
     color: #fff;
 padding: 7px 12px;
 font-size: 21px;
-    border: #2bcc91 solid 7px;}
+    border: #FFC300 solid 7px;}
 
 
 
@@ -519,15 +538,15 @@ font-size: 21px;
 
 .best_box {
      text-align: center;
-     background-color: #2bcc91;
+     background-color: #124E78;
      border-radius: 20px;
      padding: 30px 20px;
      margin-bottom: 30px;
 }
-.best_box:hover{
+.best_box:hover {
      size: 20px;
-     color: #0aec98;
-     background-color: rgb(83, 83, 83);
+     color:black;
+     background-color: #0aec98;
 }
 
 .best_box h4 {
