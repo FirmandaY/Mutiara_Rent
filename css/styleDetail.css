@@ -419,20 +419,19 @@ button {
      
 }
 
-.titleAbout{
+.titleDetail{
      font-family: 'Baloo Chettan', cursive;
      color: #003566;
-     font-size: 77px;
+     font-size: 48px;
      font-weight: bold;
      padding: auto;
      margin-top: 20mm;
-     margin-left: 0;
-     padding-left: 80mm;
-     padding-right: 30mm;
-     width: 250mm;
+     margin-left: 7mm;
+     padding-left: 10mm;
+     padding-right: 10mm;
+     width: 120mm;
      background-color: #FFC300 ;
-     right: 80px;
-     border-radius: 0px 60px 60px 0px;
+     border-radius: 60px;
      
 }
 
@@ -459,113 +458,47 @@ button {
      flex-wrap: wrap;
 }
 
+/** spesifikasi **/
 
-/** about section **/
 
-.about {
-     margin-top: 90px;
-     background: #23262d;
-     padding: 60px 0;
+.detail {
+    margin-top: 0px;
+    background-color: #23262d;
+    padding: 60px 0;
 }
 
-.about .titlepage h2 {
-     margin-bottom: 20px;
-     color: #fff;
+.detail .titlepage h2 {
+    margin-bottom: 20px;
+    color: #fff;
 }
 
-.about .titlepage span {
-     color: #fff;
-     font-size: 17px;
+.detail .titlepage span {
+    color: #fff;
+    font-size: 17px;
 }
 
-.aboutimg1{
-    background-color: #2bcc91;
+.detailimg1{
+   background-color: #2bcc91;
+   margin-top: 77px;
+   padding: 2mm;
+   border-radius: 30px;
 }
-.aboutcomment1, .h3{
-    padding: auto;
-    color: rgb(255, 255, 255);
+
+.detailcomment1, .h3{
+   padding: 30px;
+   color: rgb(255, 255, 255);
 }
 
 .aboutimg2{
-    margin-top: 25mm;
-    background-color: #2bcc91;
+   margin-top: 25mm;
+   background-color: #2bcc91;
 }
 .aboutcomment2{
-    margin-top: 15mm;
-    color: rgb(255, 255, 255);
-}
-/** end about section **/
-
-/** testimonial section **/
-
-.testimonial {
-     margin-top: 90px;
-     padding-bottom: 120px;
-     background: #fff;
+   margin-top: 15mm;
+   color: rgb(255, 255, 255);
 }
 
-.testimonial .titlepage h2 {
-     color: #1c1b1b;
-}
-
-.testimonial_Carousel .carousel-caption {
-     position: inherit;
-     padding: 0;
-}
-
-.testimonial_box {
-     text-align: center;
-}
-
-.test_box {
-     padding-bottom: 35px;
-}
-
-.padd_rightt0 {
-     padding-right: 10px;
-}
-
-.padd_leftt0 {
-     padding-left: 10px;
-}
-
-.testimonial_Carousel .test_box h3 {
-     font-size: 30px;
-     color: #2bcc91;
-     line-height: 32px;
-     display: inline-block;
-     padding-bottom: 40px;
-}
-
-.testimonial_Carousel .test_box p {
-     font-size: 17px;
-     line-height: 28px;
-     color: #1c1b1b;
-     font-style: Italic;
-}
-
-.testimonial_Carousel .carousel-indicators {
-     bottom: -30px;
-}
-
-.testimonial_Carousel .carousel-indicators li {
-     width: 15px;
-     height: 13px;
-     background: #41c365;
-}
-
-.testimonial_Carousel .carousel-indicators li.active {
-     background: #0c0c0e;
-}
-
-.carousel-control-next-icon,
-.carousel-control-prev-icon {
-     display: none;
-}
-
-
-/** end testimonial section **/
-
+/** end spesifikasi **/
 
 /** footer **/
 
