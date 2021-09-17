@@ -544,7 +544,9 @@ font-size: 21px;
      margin-bottom: 30px;
 }
 .best_box:hover {
-     size: 20px;
+     width: 374px;
+     height: 450px;
+     border: thick;
      color:black;
      background-color: #0aec98;
 }
