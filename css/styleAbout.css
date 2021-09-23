@@ -349,67 +349,6 @@ button {
      z-index: 999;
 }
 
-.logo a {
-     font-size: 40px;
-     font-weight: bold;
-     text-transform: uppercase;
-     color: #fff;
-     line-height: 40px;
-}
-
-.text-bg {
-     text-align: left;
-     max-width: 429px;
-     width: 100%;
-     float: right;
-     padding-top: 190px;
-     padding-bottom: 50px;
-}
-
-.text-bg h1 {
-     color: #003566;
-     font-size: 67px;
-     line-height: 90px;
-     padding-bottom: 70px;
-     font-weight: bold;
-}
-
-.text-bg strong {
-     font-size: 27px;
-     line-height: 35px;
-     color: #2d2c2c;
-}
-
-.text-bg span {
-     font-family: 'Baloo Chettan', cursive;
-     color: #003566;
-     font-size: 40px;
-     line-height: 77px;
-     font-weight: bold;
-     padding-bottom: 20px;
-     display: block;
-}
-
-.text-bg a {
-     font-size: 17px;
-     background-color: #003566;
-     color: #fff;
-     padding: 13px 0px;
-     width: 100%;
-     max-width: 190px;
-     text-align: center;
-     display: inline-block;
-     transition: ease-in all 0.5s;
-     border-radius: 15px;
-}
-
-.text-bg a:hover {
-     background-color: #2bcc91;
-     color: #fff;
-     transition: ease-in all 0.5s;
-     border-radius: 26px;
-}
-
 .text-img {
      height: auto;
      margin: 10mm;
