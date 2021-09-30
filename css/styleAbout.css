@@ -368,7 +368,7 @@ button {
      margin-left: 0;
      padding-left: 80mm;
      padding-right: 30mm;
-     width: 250mm;
+     width: 100%;
      background-color: #FFC300 ;
      right: 80px;
      border-radius: 0px 60px 60px 0px;
