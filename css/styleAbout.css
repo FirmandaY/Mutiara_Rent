@@ -430,9 +430,11 @@ button {
     margin-top: 25mm;
     background-color: #2bcc91;
 }
-.aboutcomment2{
+.aboutcomment2, h3{
     margin-top: 15mm;
     color: rgb(255, 255, 255);
+    text-align: center;
+    padding: auto;
 }
 /** end about section **/
 
