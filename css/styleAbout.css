@@ -423,6 +423,7 @@ button {
 .aboutcomment1, .h3{
     padding: auto;
     color: rgb(255, 255, 255);
+    text-align: center;
 }
 
 .aboutimg2{
