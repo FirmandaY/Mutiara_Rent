@@ -368,9 +368,9 @@ button {
      margin-left: 0;
      padding-left: 80mm;
      padding-right: 30mm;
-     width: 100%;
+     width: 250mm;
      background-color: #FFC300 ;
-     right: 250px;
+     right: 80px;
      border-radius: 0px 60px 60px 0px;
      
 }
@@ -403,7 +403,7 @@ button {
 
 .about {
      margin-top: 90px;
-     background: #97D8C4;
+     background: #23262d;
      padding: 60px 0;
 }
 
@@ -418,8 +418,7 @@ button {
 }
 
 .aboutimg1{
-    background-color: #97D8C4;
-    
+    background-color: #2bcc91;
 }
 .aboutcomment1, .h3{
     padding: auto;
@@ -429,7 +428,7 @@ button {
 
 .aboutimg2{
     margin-top: 25mm;
-    background-color: #97D8C4;
+    background-color: #2bcc91;
 }
 .aboutcomment2, h3{
     margin-top: 15mm;
