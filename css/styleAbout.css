@@ -361,14 +361,14 @@ button {
 .titleAbout{
      font-family: 'Baloo Chettan', cursive;
      color: #003566;
-     font-size: 77px;
+     font-size: 65px;
      font-weight: bold;
      padding: auto;
      margin-top: 20mm;
      margin-left: 0;
-     padding-left: 80mm;
+     padding-left: 125mm;
      padding-right: 30mm;
-     width: 250mm;
+     width: 300mm;
      background-color: #FFC300 ;
      right: 250px;
      border-radius: 0px 60px 60px 0px;
