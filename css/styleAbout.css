@@ -349,6 +349,7 @@ button {
      z-index: 999;
 }
 
+<<<<<<< HEAD
 .logo a {
      font-size: 40px;
      font-weight: bold;
@@ -410,6 +411,8 @@ button {
      border-radius: 26px;
 }
 
+=======
+>>>>>>> 176e00048d904b46c8fb7604b2292518b53c9d36
 .text-img {
      height: auto;
      margin: 10mm;
