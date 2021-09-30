@@ -368,7 +368,7 @@ button {
      margin-left: 0;
      padding-left: 80mm;
      padding-right: 30mm;
-     width: 100%;
+     width: 250mm;
      background-color: #FFC300 ;
      right: 80px;
      border-radius: 0px 60px 60px 0px;
@@ -403,13 +403,13 @@ button {
 
 .about {
      margin-top: 90px;
-     background: #23262d;
+     background: #97D8C4;
      padding: 60px 0;
 }
 
 .about .titlepage h2 {
      margin-bottom: 20px;
-     color: #fff;
+     color: #003566;;
 }
 
 .about .titlepage span {
@@ -434,7 +434,7 @@ button {
     margin-top: 15mm;
     color: rgb(255, 255, 255);
     text-align: center;
-    padding: auto; 
+    padding: auto;
 }
 /** end about section **/
 
