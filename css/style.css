@@ -501,7 +501,8 @@ font-size: 21px;
 }
 
 .about .about_box figure img {
-     width: 100%;
+     width: 60%;
+
 }
 
 .about .about_box .read_more {
@@ -540,16 +541,19 @@ font-size: 21px;
      text-align: center;
      background-color: #124E78;
      border-radius: 20px;
-     padding: 30px 20px;
+     padding: 30px 30px;
      margin-bottom: 30px;
+
 }
-.best_box:hover {
+
+
+/* .best_box:hover {
      width: 374px;
      height: 450px;
      border: thick;
      color:black;
      background-color: #6B9AC4;
-}
+} */
 
 .best_box h4 {
      color: #fff;
