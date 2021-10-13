@@ -517,6 +517,11 @@ button {
      padding: 2mm;
 }
 
+.cont iframe{
+     padding: 2px;
+     width: 100%;
+}
+
 .cont h3 {
      color: #f8f8ff;
      font-size: 37px;

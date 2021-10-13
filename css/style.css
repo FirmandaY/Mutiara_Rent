@@ -40,6 +40,7 @@ body {
      font-family: 'Poppins', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
+     width: 100%;
 }
 
 a {
@@ -415,6 +416,7 @@ button {
 
 .text-img {
      height: 750px;
+     width: 100%;
      background: linear-gradient(to bottom, #FFC300 0%, #FFC300 100%);
      border-radius: 300px 0px 0px 350px;
      padding: 132px 20px 0px 50px;
@@ -440,8 +442,8 @@ button {
 
     border-radius: 72px;
     color: #fff;
-padding: 7px 12px;
-font-size: 21px;
+    padding: 7px 12px;
+    font-size: 21px;
     border: #FFC300 solid 7px;}
 
 
@@ -826,6 +828,11 @@ font-size: 21px;
      text-align: left;
      background-color: #003566;
      padding: 2mm;
+}
+
+.cont iframe{
+     padding: 2px;
+     width: 100%;
 }
 
 .cont h3 {

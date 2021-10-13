@@ -537,6 +537,11 @@ button {
      font-weight: bold;
 }
 
+.cont iframe{
+     padding: 2px;
+     width: 100%;
+}
+
 .cont_call h3 {
      color: #d8d8d8;
      font-size: 25px;
