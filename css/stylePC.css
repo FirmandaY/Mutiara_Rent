@@ -419,6 +419,10 @@ button {
      
 }
 
+.banner_main{
+     width: 100%;
+}
+
 .titleAbout{
      font-family: 'Baloo Chettan', cursive;
      color: #003566;
@@ -427,11 +431,11 @@ button {
      padding: auto;
      margin-top: 20mm;
      margin-left: 0;
-     padding-left: 100mm;
+     padding-left: 40mm;
      padding-right: 30mm;
-     width: 300mm;
+     width: 100%;
      background-color: #FFC300 ;
-     right: 250px;
+     right: 10%;
      border-radius: 0px 60px 60px 0px;
      
 }
